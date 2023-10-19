@@ -1,0 +1,1501 @@
+No,AGE,WEIGHT,HIGHT,TEMP,PULSE,BP,O2(%),BSR,LEVEL,SKIN COLOR,MOISTURE,CONSCIOUS LEVEL,Health Static,Insulin
+1,58,58,5.9,98,90,70/30,80,160,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+2,65,65,5.6,98,112,140/70,80,403,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+3,55,55,6.2,98.6,114,90/60,93,530,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+4,74,74,5.1,98,55,90/60,68,285,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+5,89,89,5.3,97,50,75/40,76,423,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+6,36,36,6,98,78,173/101,91,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+7,56,45,5.11,91,95,180/70,?,?,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+8,45,50,5.7,101,123,103/71,95,275,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+9,50,83,5.6,98,86,200/110,92,353,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+10,65,72,4.5,98,90,97/57,72,185,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+11,76,75,5.1,98,90,90/60,99,147,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+12,16,70,5.5,98.6,174,140/80,90,164,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+13,18,99,5.3,98,94,110/71,80,350,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+14,35,56,4.6,98,144,60/30,76,80,Normal,Normal,Normal,Normal,Normal,Normal
+15,50,59,4.6,98,100,60/0,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+16,83,62,5,98,123,185/110,86,246,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+17,60,74,4.8,99,112,92/79,82,177,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+18,30,97,4.6,103,97,80/30,98,317,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+19,71,79,5.5,98,144,70/40,85,152,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+20,81,54,5.6,98,123,185/110,92,82,Normal,Normal,Normal,Normal,Normal,Normal
+21,35,96,5.3,105,94,130/80,85,273,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+22,29,58,5.5,98,99,80/60,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+23,74,80,6.1,98,176,70/40,70,483,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+24,63,76,5.5,97,79,100/60,77,117,Normal,Normal,Normal,Normal,Normal,Normal
+25,,72,4.7,97,60,100/60,58,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+26,20,68,5.5,98,62,120/60,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+27,40,95,5.5,98,103,99/60,78,329,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+28,87,89,6.1,98,67,70/40,79,316,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+29,86,63,5.2,102,60,80/50,82,101,Normal,Normal,Normal,Normal,Normal,Normal
+30,,91,6.1,98,70,90/60,71,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+31,74,81,5.6,98,100,152/97,?,69,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+32,,97,5.5,98,54,90/40,44,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+33,55,84,4.5,88,84,100/60,34,504,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+34,45,76,5.3,98,?,80/40,88,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+35,30,69,5.2,98,84,110/60,93,125,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+36,65,81,4.9,98,90,120/80,98,80,Normal,Normal,Normal,Normal,Normal,Normal
+37,32,72,4.8,93,90,163/110,92,90,Normal,Normal,Normal,Normal,Normal,Normal
+38,22,89,5.7,98,40,120/80,35,96,Normal,Normal,Normal,Normal,Normal,Normal
+39,48,90,4.9,98,122,150/80,98,113,Normal,Normal,Normal,Normal,Normal,Normal
+40,35,72,5.4,98,96,100/60,92,439,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+41,55,67,6,96,90,60/40,86,80,Normal,Normal,Normal,Normal,Normal,Normal
+42,20,56,5.4,98,?,130/90,72,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+43,60,83,6.1,98,140,110/70,90,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+44,55,54,5.6,98,130,138/89,95,255,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+45,65,78,5.7,98,?,60/20,?,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+46,15,99,5.3,98,126,60/40,98,321,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+47,81,77,5,98,70,130/80,92,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+48,30,90,5.4,98,130,100/60,35,459,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+49,85,61,4.9,98,95,40/10,98,104,Normal,Normal,Normal,Normal,Normal,Normal
+50,63,63,4.8,98,?,110/80,90,34,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+51,30,74,5.1,98,30,148/108,98,201,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+52,28,59,6.2,98,113,70/30/,92,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+53,60,55,4.8,98,79,90/60,35,455,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+54,73,72,6,98,103,170/90,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+55,65,78,4.9,98,110,160/100,,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+56,60,64,4.5,98,91,83/44,90,204,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+57,75,91,5.3,98,79,160/80,55,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+58,45,82,5.1,98,67,80/50,37,335,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+59,14,73,5.7,98,155,140/100,87,298,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+60,48,77,6,95,90,80/50,98,179,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+61,50,82,5.7,100,78,110/70,92,125,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+62,80,93,4.7,98,96,90/60,35,290,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+63,60,95,5.9,98,132,91/42,98,168,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+64,50,80,4.5,98,88,130/90,98,88,Normal,Normal,Normal,Normal,Normal,Normal
+65,50,83,4.8,98,78,200/110,92,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+66,50,74,6.1,98,124,110/70,35,197,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+67,50,96,5.8,98,80,80/40,98,161,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+68,65,68,6.1,98,?,80/50,95,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+69,90,56,5.4,98,79,80/30,76,231,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+70,50,95,5.6,98,107,140/98,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+71,71,87,5.7,98,97,80/50,77,170,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+72,60,82,5.5,98,78,100/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+73,22,91,4.6,98,80,80/60,90,128,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+74,78,66,5.5,98,112,110/70,91,214,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+75,50,92,5.3,98,78,90/60,90,357,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+76,35,56,5.2,98,92,130/60,85,96,Normal,Normal,Normal,Normal,Normal,Normal
+77,76,59,5.6,98,102,100/70,95,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+78,47,63,5.5,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+79,80,79,5.4,98,84,170/100,70,97,Normal,Normal,Normal,Normal,Normal,Normal
+80,55,70,5.8,98,82,90/60,125,253,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+81,45,85,4.8,98,96,230/130,82,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+82,60,100,6.1,98,86,120/80,98,180,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+83,77,96,6.1,99,89,140/90,83,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+84,80,59,5.2,100,100,100/70,99,551,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+85,60,62,5.5,98,100,80/40,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+86,65,54,5.7,98,78,90/60,90,166,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+87,45,69,5,98,,70/30,,76,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+88,45,74,6.2,98,79,110/70,91,433,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+89,55,96,6,98,92,120/80,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+90,61,92,5.3,98,92,70/40,90,180,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+91,37,83,4.5,98,128,15/70,85,119,Normal,Normal,Normal,Normal,Normal,Normal
+92,60,55,4.6,98.6,105,115/90,85,32,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+93,62,86,4.9,98,140,53/31,95,143,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+94,47,75,4.6,99,88,60/0,98,80,Normal,Normal,Normal,Normal,Normal,Normal
+95,75,53,5,98,80,100/70,,22,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+96,16,87,4.9,98,150,134/80,100,132,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+97,25,71,5.6,98,70,70/30,78,234,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+98,30,73,4.6,98,,70/30,10,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+99,60,79,5.1,98,125,90/60,92,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+100,18,61,5.6,98,70,,30,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+101,50,87,5.9,98,86,80/32,96,104,Normal,Normal,Normal,Normal,Normal,Normal
+102,60,51,5.7,98,0,0,0,34,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+103,70,55,4.8,98,111,75/47,98,129,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+104,22,97,6,99,100,180/100,86,163,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+105,50,61,6.2,98,80,80/60,92,542,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+106,45,79,5.3,98,90,130/90,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+107,50,55,5.2,101,120,110/70,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+108,70,92,5,98,92,180/100,77,118,Normal,Normal,Normal,Normal,Normal,Normal
+109,16,50,5,98,75,120/80,78,114,Normal,Normal,Normal,Normal,Normal,Normal
+110,50,88,5.5,98,,,79,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+111,50,52,4.5,98,98,60/0,82,345,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+112,30,80,5.3,98,102,90/60,34,269,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+113,50,85,5.3,98,78,80/50,93,239,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+114,15,60,4.9,98,109,176/93,100,181,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+115,75,53,4.8,98,82,100/60,75,227,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+116,75,71,4.9,98,87,100/70,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+117,80,74,6,98,68,80/60,65,223,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+118,25,83,4.9,98,66,185/110,60,155,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+119,50,54,5.9,98,78,100/70,80,209,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+120,45,65,5.5,98,66,60/0,25,216,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+121,40,68,4.8,98,127,70/37,92,350,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+122,35,91,5.4,98,152,41/18,91,144,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+123,60,73,6,98,76,170/100,99,138,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+124,70,59,5,98,90,185/110,91,230,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+125,35,94,5.1,100,112,100/70,99,?,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+126,69,72,5,98,,,,40,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+127,40,95,5.9,98,120,100/60,70,107,Normal,Normal,Normal,Normal,Normal,Normal
+128,7,76,5,98,90,62/36,100,80,Normal,Normal,Normal,Normal,Normal,Normal
+129,70,56,4.7,98,82,100/70,100,43,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+130,55,89,5,98,100,130/90,98,350,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+131,65,94,5.1,98,68,,,39,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+132,50,80,4.5,98,96,90/60,99,526,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+133,35,94,5.4,98,107,110/86,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+134,55,67,5.1,98,,130/90,90,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+135,85,65,4.9,98,60,101/60,98,95,Normal,Normal,Normal,Normal,Normal,Normal
+136,25,52,5.4,99,101,160/80,95,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+137,57,60,5.9,98,65,100/60,63,46,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+138,12,65,4.7,98,102,100/45,78,80,Normal,Normal,Normal,Normal,Normal,Normal
+139,70,75,6.1,98,70,80/50,100,73,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+140,50,60,4.8,98,89,90/60,93,119,Normal,Normal,Normal,Normal,Normal,Normal
+141,60,74,4.5,98,,45/10,100,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+142,65,87,5.8,98,76,180/100,94,639,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+143,70,91,4.7,98,85,110/60,89,330,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+144,25,65,5.2,98,76,90/40,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+145,75,57,5.4,98,120,110/70,92,183,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+146,89,91,6.2,98,89,,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+147,50,63,5.4,98,70,130/70,,45,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+148,55,73,5.8,98,,,,31,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+149,60,56,5.6,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+150,70,83,5.6,98,89,140/80,99,99,Normal,Normal,Normal,Normal,Normal,Normal
+151,35,53,6,98,105,71/38,100,108,Normal,Normal,Normal,Normal,Normal,Normal
+152,60,70,5.8,98,70,90/50,98,112,Normal,Normal,Normal,Normal,Normal,Normal
+153,25,99,6,98,105,150/100,80,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+154,70,59,6,98,102,40/1,60,260,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+155,80,59,5.8,98,89,180/100,60,80,Normal,Normal,Normal,Normal,Normal,Normal
+156,52,57,5.8,98,76,185/110,98,104,Normal,Normal,Normal,Normal,Normal,Normal
+157,60,61,5.2,98,85,191/141,99,54,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+158,60,86,5.2,98,120,130/80,58,553,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+159,55,100,4.9,98,88,185/110,71,80,Normal,Normal,Normal,Normal,Normal,Normal
+160,53,50,5.9,98,120,140/80,181,296,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+161,42,67,5.8,98,68,70/40,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+162,30,83,6.2,98,86,130/90,95,119,Normal,Normal,Normal,Normal,Normal,Normal
+163,28,98,5.3,98,117,73/43,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+164,60,89,5.4,98,88,120/80,98,149,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+165,35,90,6.1,98,89,60/1,25,200,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+166,80,87,6.2,98,91,110/70,78,106,Normal,Normal,Normal,Normal,Normal,Normal
+167,35,76,5.7,98,89,120/80,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+168,37,55,6.2,98,114,120/110,99,102,Normal,Normal,Normal,Normal,Normal,Normal
+169,40,62,4.7,98,82,90/60,71,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+170,55,63,6,98,69,70/30,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+171,35,58,5.8,98,102,110/70,87,504,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+172,45,98,5.3,98,44,80/40,51,139,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+173,50,96,5.8,98,72,90/60,89,150,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+174,65,56,5.2,98,71,80/60,91,302,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+175,70,78,5.1,98,72,90/60,98,72,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+176,30,87,4.8,98,123,95/50,90,142,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+177,33,69,6.1,98,117,146/92,90,137,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+178,26,72,5.1,98,98,100/60,,60,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+179,50,79,5.7,98,90,80/60,97,134,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+180,50,57,5.9,98,86,90/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+181,55,85,5.5,102,98,117/61,94,92,Normal,Normal,Normal,Normal,Normal,Normal
+182,65,54,5.9,98,83,136/37,100,104,Normal,Normal,Normal,Normal,Normal,Normal
+183,60,62,5.8,98,88,95/60,102,189,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+184,60,58,5.3,98,95,180/100,24,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+185,45,93,5,98,79,171/103,98,252,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+186,27,67,5.8,98,80,190/110,80,96,Normal,Normal,Normal,Normal,Normal,Normal
+187,50,53,5.1,98,88,150/90,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+188,26,99,4.6,98,81,110/60,89,121,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+189,65,99,5.7,98,114,110/70,97,92,Normal,Normal,Normal,Normal,Normal,Normal
+190,40,60,5.1,98,78,90/60,94,215,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+191,70,62,5.8,98,86,90/60,100,26,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+192,17,64,5.6,98,143,110/70,102,140,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+193,75,100,5.9,98,,,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+194,80,50,5.5,98,110,100/60,97,82,Normal,Normal,Normal,Normal,Normal,Normal
+195,35,84,5.4,98,130,180/60,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+196,75,81,4.8,98,70,110/70,100,160,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+197,72,50,4.6,98,140,140/90,102,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+198,60,60,5.1,98,,,98,72,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+199,75,61,4.6,98,70,90/50,97,149,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+200,40,96,4.8,98,99,110/70,94,110,Normal,Normal,Normal,Normal,Normal,Normal
+201,60,87,5.9,98,86,150/90,100,138,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+202,60,84,5.9,98,63,85/44,102,104,Normal,Normal,Normal,Normal,Normal,Normal
+203,70,63,5.5,98,60,100/60,98,209,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+204,85,50,5.9,98,70,90/60,100,117,Normal,Normal,Normal,Normal,Normal,Normal
+205,45,82,5.8,98,65,100/60,99,245,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+206,75,86,4.8,98,75,80/50,,59,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+207,56,85,4.6,98,129,102/61,98,115,Normal,Normal,Normal,Normal,Normal,Normal
+208,55,80,4.9,98,65,100/70,87,256,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+209,18,67,5.9,98,180,100/60,87,139,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+210,75,68,4.5,98,84,110/140,80,185,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+211,60,74,6.1,98,69,100/50,96,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+212,76,91,6.1,98,79,240/200,89,100,Normal,Normal,Normal,Normal,Normal,Normal
+213,40,68,5.3,98,94,160/100,88,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+214,65,77,5.8,98,90,100/60,87,140,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+215,75,53,5.9,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+216,30,61,5.9,98,85,90/60,95,135,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+217,45,57,5.7,98,96,100/60,97,128,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+218,40,83,5.8,98,,80/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+219,29,56,6,98,89,100/40,84,156,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+220,35,58,5.8,98,98,100/60,84,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+221,61,72,5.9,98,102,77/41,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+222,55,73,6,98,88,100/80,89,134,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+223,88,91,5.7,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+224,85,87,4.6,98,60,80/60,98,286,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+225,45,86,5.6,98,87,100/60,99,245,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+226,55,82,5,98,96,100/70,90,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+227,50,94,5.2,98,200,,65,51,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+228,45,73,5,98,30,240/200,35,169,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+229,66,99,5.1,98,,100/60,,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+230,34,53,4.7,98,75,86/57,97,132,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+231,84,56,6.1,98,124,100/60,84,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+232,1.5,75,5.2,98,91,63/20,89,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+233,60,93,6,98,64,80/60,97,135,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+234,4,88,4.7,100,148,,84,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+235,70,78,5,98,96,140/90,89,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+236,40,63,6.1,98,146,86/57,97,255,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+237,47,54,4.8,98,33,80/30,84,157,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+238,66,58,4.7,98,,,89,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+239,,75,4.6,98,80,90/60,96,524,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+240,47,60,5.5,98,96,110/70,87,80,Normal,Normal,Normal,Normal,Normal,Normal
+241,80,65,5.7,98,,,92,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+242,54,52,5.6,98,80,90/60,98,72,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+243,35,95,4.7,98,78,110/70,62,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+244,35,61,5.6,98,80,110/60,90,173,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+245,65,78,6.1,98,93,190/49,96,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+246,75,87,5.1,98,96,128/94,88,256,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+247,35,78,5.7,98,87,130/80,98,224,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+248,85,54,5.9,98,86,60/40,89,220,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+249,65,56,5.6,98,80,70/40,98,115,Normal,Normal,Normal,Normal,Normal,Normal
+250,65,89,5.7,98,78,100/60,98,97,Normal,Normal,Normal,Normal,Normal,Normal
+251,55,100,5.1,98,52,128/94,89,575,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+252,80,94,4.7,98,79,42/20,55,133,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+253,70,86,6.1,98,54,150/90,84,197,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+254,23,62,4.8,98,104,90/60,89,250,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+255,30,61,6.1,98,110,100/60,82,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+256,40,64,4.9,98,79,120/80,85,17,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+257,35,75,5.6,98,84,110/70,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+258,50,68,5.5,98,92,120/80,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+259,52,65,6,98,82,140/100,99,222,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+260,70,97,6.1,98,96,130/80,62,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+261,70,59,5,98,83,80/30,95,131,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+262,35,56,5.5,98,62,90/60,83,62,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+263,35,62,4.6,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+264,25,82,5.7,98,90,80/30,98,136,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+265,50,69,6.1,98,80,90/60,98,138,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+266,70,89,5.7,98,101,90/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+267,70,52,5.9,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+268,80,90,5.3,98,80,110/80,96,131,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+269,60,55,5.2,98,83,40/0,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+270,65,73,5,98,149,42/20,97,97,Normal,Normal,Normal,Normal,Normal,Normal
+271,30,96,6.2,98,102,50/30,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+272,80,53,6.1,98,,,89,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+273,45,77,5.2,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+274,35,85,5.5,98,120,62/32,88,135,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+275,90,67,5.6,98,90,50/40,65,469,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+276,22,84,5,98,88,90/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+277,38,85,5.2,98,72,130/70,90,94,Normal,Normal,Normal,Normal,Normal,Normal
+278,30,92,5.5,98,129,100/70,89,309,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+279,50,98,5.3,98,90,60/0,40,189,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+280,22,74,5,98,84,90/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+281,60,79,4.5,98,96,14/110,78,335,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+282,70,52,5.1,98,100,80/50,80,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+283,70,56,5.9,98,88,160/100,68,138,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+284,25,65,4.9,98,142,120/70,89,172,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+285,50,76,5.8,98,100,90/60,90,90,Normal,Normal,Normal,Normal,Normal,Normal
+286,70,85,5.1,98,88,70/40,74,92,Normal,Normal,Normal,Normal,Normal,Normal
+287,60,75,5.8,98,100,90/60,96,381,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+288,32,98,5.6,98,68,100/70,65,101,Normal,Normal,Normal,Normal,Normal,Normal
+289,61,80,4.9,98,63,70/50,98,143,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+290,70,96,5.4,98,82,130/90,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+291,55,96,4.5,98,60,100/70,82,123,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+292,60,98,4.9,98,80,80/50,40,222,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+293,70,73,5.4,98,,,78,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+294,45,86,6.1,98,88,130/90,68,180,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+295,60,78,6,98,90,160/100,89,293,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+296,50,81,5.2,98,72,90/60,90,150,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+297,65,99,6,98,71,80/60,91,302,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+298,70,99,5.2,98,72,90/60,98,72,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+299,25,93,4.9,98,76,90/40,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+300,75,90,5.1,98,120,110/70,92,183,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+301,70,71,6,98,90,110/60,40,330,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+302,89,89,4.9,98,89,,78,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+303,60,54,4.6,98,,45/10,68,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+304,65,56,5.4,98,78,180/100,89,639,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+305,25,77,4.8,98,70,70/30,90,234,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+306,30,68,4.8,98,,70/30,10,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+307,60,60,5.4,98,125,90/60,92,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+308,60,72,4.6,98,132,91/42,99,168,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+309,50,79,4.9,98,88,130/90,40,88,Normal,Normal,Normal,Normal,Normal,Normal
+310,50,56,4.7,98,78,200/110,78,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+311,50,66,5.8,98,124,110/70,68,197,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+312,50,75,5.1,98,80,80/40,89,161,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+313,80,77,4.5,100,100,100/70,90,551,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+314,60,82,5.2,98,100,80/40,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+315,65,95,4.8,98,78,90/60,90,166,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+316,45,93,6,98,,70/30,,76,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+317,60,74,5,98,78,100/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+318,22,100,5.4,98,80,80/60,40,128,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+319,78,82,5.7,98,96,110/70,78,214,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+320,60,59,5.5,98.6,105,115/90,68,32,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+321,62,67,5.4,98,140,53/31,89,143,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+322,47,100,6,99,88,60/0,90,80,Normal,Normal,Normal,Normal,Normal,Normal
+323,75,71,4.7,98,80,100/70,,22,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+324,80,67,5.5,98,84,170/100,98,97,Normal,Normal,Normal,Normal,Normal,Normal
+325,55,56,5.8,98,82,90/60,125,253,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+326,45,61,5.3,98,96,230/130,82,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+327,60,78,5.4,98,86,120/80,78,180,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+328,77,83,4.8,99,89,140/90,83,H1,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+329,70,58,5.4,98,111,75/47,98,129,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+330,22,63,6.2,99,100,180/100,86,163,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+331,50,64,4.8,98,80,80/60,68,542,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+332,45,58,5.3,98,90,130/90,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+333,45,92,4.9,98,79,110/70,91,433,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+334,48,85,5.3,95,90,80/50,40,179,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+335,50,72,4.7,100,87,110/70,78,125,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+336,80,90,6,98,96,90/60,89,290,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+337,65,66,5.4,98,?,80/50,90,?,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+338,90,65,5.2,98,79,80/30,98,231,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+339,50,67,4.9,98,107,140/98,99,?,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+340,71,89,5.7,98,97,80/50,77,170,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+341,16,93,5.4,98,150,134/80,100,132,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+342,47,76,5.6,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+343,55,50,4.6,98,92,120/80,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+344,61,66,5.5,98,92,70/40,90,180,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+345,18,83,5.6,98,70,,30,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+346,50,95,5.4,98,86,80/32,96,104,Normal,Normal,Normal,Normal,Normal,Normal
+347,60,93,5.3,98,0,0,0,34,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+348,37,56,4.9,98,128,15/70,85,119,Normal,Normal,Normal,Normal,Normal,Normal
+349,50,65,6,101,120,110/70,99,142,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+350,70,97,5.7,98,92,180/100,40,118,Normal,Normal,Normal,Normal,Normal,Normal
+351,16,95,5.5,98,75,120/80,78,114,Normal,Normal,Normal,Normal,Normal,Normal
+352,50,67,5.5,98,,,89,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+353,50,77,4.5,98,78,90/60,90,357,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+354,35,98,5.3,98,92,130/60,98,96,Normal,Normal,Normal,Normal,Normal,Normal
+355,76,94,5.2,98,102,100/70,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+356,60,86,5.3,98,511,70/30,,55,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+357,29,71,5,100,114,70/40,90,94,Normal,Normal,Normal,Normal,Normal,Normal
+358,70,75,6.1,98,82,130/90,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+359,55,53,4.7,98,60,100/70,82,123,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+360,60,75,5.7,98,80,80/50,98,222,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+361,70,79,4.7,98,65,110/50,98,444,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+362,32,80,4.7,98,130,130/80,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+363,50,67,5.3,98,85,60/40,75,181,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+364,30,90,5.2,98,110,150/110,67,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+365,37,70,4.6,98,100,100/70,88,121,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+366,22,78,5.6,99,120,160/70,94,176,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+367,60,75,4.6,98,110,85/55,91,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+368,15,82,5.5,98,90,80/50,92,136,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+369,55,70,5.7,99,40,50/0,,35,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+370,30,96,5.8,103,90,100/20,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+371,86,99,5,98,105,120/80,61,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+372,19,65,5.4,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+373,40,52,6.2,100,55,70/40,58,92,Normal,Normal,Normal,Normal,Normal,Normal
+374,60,62,5.1,98,88,80/50,95,121,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+375,55,98,4.9,98,?,?,?,?,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+376,50,75,5.2,98,80,100/70,84,568,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+377,60,92,5,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+378,60,75,4.7,98,100,102/58,98,350,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+379,60,54,6,98,110,119/71,90,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+380,36,80,6,98,110,110/70,96,112,Normal,Normal,Normal,Normal,Normal,Normal
+381,68,78,5.4,98,90,50/3,50,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+382,26,61,6,98,62,80/50,88,424,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+383,60,68,4.9,98,79,130/90,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+384,50,55,5,98,90,80/50,92,72,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+385,85,96,6,98,96,160/100,58,33,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+386,20,94,5,98,96,100/70,95,241,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+387,55,50,4.6,98,85,100/60,84,354,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+388,90,89,4.6,98,86,100/60,98,143,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+389,65,73,4.9,98,80,51/28,98,95,Normal,Normal,Normal,Normal,Normal,Normal
+390,80,57,5.9,98,86,100/70,98,415,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+391,40,75,5.2,98,88,150/90,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+392,30,86,5.1,98,162,152/120,98,216,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+393,45,91,4.6,98,81,130/80,92,115,Normal,Normal,Normal,Normal,Normal,Normal
+394,60,54,5,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+395,35,75,5.6,98,92,150/90,98,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+396,23,76,4.8,98,88,80/60,95,125,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+397,60,78,5.9,98,130,100./70,88,276,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+398,55,75,5.5,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+399,80,70,5.7,98,62,50/30,58,494,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+400,60,60,5.5,98,89,60/40,65,257,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+401,55,59,5.2,98,78,90/50,99,100,Normal,Normal,Normal,Normal,Normal,Normal
+402,60,63,5.6,98,52,60/30,98,270,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+403,80,100,5.5,98,94,100/70,92,128,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+404,55,96,5.5,98,80,200/110,89,272,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+405,65,63,5.9,98,80,130/90,99,82,Normal,Normal,Normal,Normal,Normal,Normal
+406,63,85,5,98,139,96/63,98,58,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+407,45,97,5.6,98,150,90/60,92,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+408,60,59,5.3,98,84,140/90,99,112,Normal,Normal,Normal,Normal,Normal,Normal
+409,50,74,5,98,,,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+410,75,79,5.6,98,86,120/90,92,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+411,65,80,4.5,98,78,90/50,98,266,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+412,52,51,5.9,98,98,50/30,96,196,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+413,42,71,5.8,98,83,90/60,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+414,55,54,4.6,98,80,130/90,85,85,Normal,Normal,Normal,Normal,Normal,Normal
+415,50,88,4.7,98,89,100/70,78,333,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+416,60,90,4.6,98,52,90/60,,54,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+417,20,81,4.8,98,152,50/20,96,192,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+418,18,92,5.3,98,,80/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+419,20,94,5.8,98,112,130/80,96,116,Normal,Normal,Normal,Normal,Normal,Normal
+420,60,94,5.6,98,85,50/20,95,111,Normal,Normal,Normal,Normal,Normal,Normal
+421,80,71,6.1,98,90,230/150,98,240,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+422,63,79,5.1,98,124,92/55,98,230,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+423,30,72,4.7,98,58,140/90,98,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+424,65,98,5.9,98,95,50/1,75,226,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+425,14,91,4.7,98,88,140/90,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+426,50,61,5.7,98,96,100/50,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+427,50,86,5.1,98,80,110/80,58,90,Normal,Normal,Normal,Normal,Normal,Normal
+428,38,71,4.7,98,96,60/40,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+429,70,78,5.3,98,92,120/80,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+430,45,53,5.1,98,78,60/40,,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+431,80,90,6,98,96,100/80,95,56,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+432,65,97,4.7,98,118,66/38,93,152,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+433,26,69,5.3,98,72,80/50,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+434,55,96,5.2,98,68,100/80,68,266,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+435,65,63,5.3,98,102,130/90,64,129,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+436,40,55,4.7,98,56,70/40,93,85,Normal,Normal,Normal,Normal,Normal,Normal
+437,70,92,4.6,98,70,60/30,98,231,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+438,56,74,4.7,98,85,40/1,58,209,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+439,60,60,5.3,98,100,180/100,68,234,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+440,30,97,4.9,98,136,72/36,93,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+441,65,77,6.1,98,118,94/54,99,186,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+442,50,55,5.9,98,79,100/60,97,452,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+443,80,50,6.1,98,50,94/54,69,126,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+444,75,51,6,98,78,60/36,81,90,Normal,Normal,Normal,Normal,Normal,Normal
+445,70,76,5.1,98,88,60/40,81,156,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+446,12,79,5.5,98,145,113/61,80,88,Normal,Normal,Normal,Normal,Normal,Normal
+447,22,66,5.6,98,110,90/60,99,90,Normal,Normal,Normal,Normal,Normal,Normal
+448,70,66,4.8,98,80,90/60,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+449,52,88,5,98,82,160/100,96,135,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+450,20,81,4.9,98,150,84/45,90,100,Normal,Normal,Normal,Normal,Normal,Normal
+451,40,94,5.8,98,89,94/54,98,352,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+452,18,78,4.9,98,82,90/60,48,120,Normal,Normal,Normal,Normal,Normal,Normal
+453,80,53,4.9,98,110,80/50,95,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+454,63,72,4.6,98,90,110/50,99,125,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+455,30,86,4.5,98,62,130/80,55,276,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+456,65,79,5,98,79,60/40,65,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+457,14,73,5.9,98,90,150/110,95,494,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+458,50,56,5.7,98,96,94/54,99,257,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+459,50,61,4.6,100,85,100/70,97,100,Normal,Normal,Normal,Normal,Normal,Normal
+460,38,96,5.3,98,85,85/55,88,270,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+461,70,80,5.5,98,86,80/50,36,128,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+462,16,97,4.9,98,80,50/0,99,272,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+463,50,56,6.1,98,88,100/20,99,82,Normal,Normal,Normal,Normal,Normal,Normal
+464,50,85,6.1,98,80,120/80,45,58,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+465,35,81,6,105,84,90/60,67,131,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+466,76,71,5.6,98,82,70/40,91,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+467,60,52,5.1,98,96,80/50,95,97,Normal,Normal,Normal,Normal,Normal,Normal
+468,29,69,4.6,98,86,90/60,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+469,70,82,5.6,98,89,110/70,92,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+470,55,88,6.1,98,111,110/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+471,60,65,5.6,98,100,90/5,62,135,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+472,70,92,4.6,98,78,80/40,99,469,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+473,65,79,5.7,99,109,80/30,86,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+474,55,91,5.8,98,82,60/40,98,521,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+475,80,99,6.1,98,87,70/40,95,309,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+476,70,92,5.7,98,68,100/60,99,189,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+477,23,70,5.9,99,66,130/80,85,455,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+478,30,91,5.7,98,78,80/60,99,335,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+479,40,78,5.3,98,66,70/40,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+480,35,93,4.5,98,127,100/60,77,439,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+481,50,52,5.5,98,103,100/60,58,80,Normal,Normal,Normal,Normal,Normal,Normal
+482,52,66,5.4,98,67,120/60,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+483,50,54,5.9,98,60,99/60,,?,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+484,60,87,6.2,98,70,70/40,79,255,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+485,37,78,4.5,98,100,80/50,82,?,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+486,50,66,6.2,98,54,90/60,71,321,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+487,70,98,4.9,98,84,152/97,?,?,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+488,16,57,4.7,98,65,90/40,44,459,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+489,50,82,4.6,98,95,100/60,34,104,Normal,Normal,Normal,Normal,Normal,Normal
+490,50,56,5,98,90,80/40,88,34,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+491,35,95,5.7,98,90,140/90,83,201,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+492,76,67,4.5,99,40,150/100,95,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+493,60,93,5.5,98,122,90/50,89,455,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+494,29,94,6.1,98,96,60/10,99,?,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+495,16,75,5.1,98,90,150/90,81,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+496,18,98,5.5,100,144,85/44,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+497,35,83,5.2,98,100,220/180,96,99,Normal,Normal,Normal,Normal,Normal,Normal
+498,50,53,5.8,102,123,110/60,97,86,Normal,Normal,Normal,Normal,Normal,Normal
+499,83,85,5,98,112,60/0,99,64,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+500,50,81,5.1,98,120,134/58,99,146,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+501,40,58,5.8,100,109,54/50,100,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+502,71,84,4.7,98,114,105/59,79,159,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+503,55,89,4.8,98,79,80/50,,56,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+504,45,59,6,98,80,134/84,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+505,50,83,6,98,110,120/75,95,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+506,71,76,5.1,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+507,45,61,5.1,98,78,15/100,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+508,63,75,5.5,98,34,160/130,,60,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+509,125,98,4.7,98,80,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+510,25,87,4.7,98,,142/116,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+511,50,80,5.1,98,79,100/50,99,288,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+512,50,66,5.4,98,,,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+513,55,74,5.3,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+514,65,50,4.8,98,100,140/90,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+515,36,60,4.6,103,111,193/90,100,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+516,50,87,5.8,98,80,220/42,91,207,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+517,26,68,5.9,98,90,142/54,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+518,55,84,5.2,98,77,134/58,95,240,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+519,50,88,6,98,112,90/50,100,27,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+520,70,86,4.6,98,130,110/90,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+521,60,83,5.7,98,140,90/50,90,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+522,14,51,5,98,98,160/110,86,135,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+523,50,69,5.8,98,108,110/60,98,568,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+524,17,65,5.7,98,100,130/80,96,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+525,60,50,4.7,98,133,74/51,90,125,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+526,30,55,6,98,115,160/115,100,278,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+527,75,79,4.8,98,110,90/60,98,181,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+528,20,97,5.2,98,57,100/60,71,140,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+529,27,82,5.6,98,95,130/80,96,116,Normal,Normal,Normal,Normal,Normal,Normal
+530,86,95,5.9,98,32,80/60,99,113,Normal,Normal,Normal,Normal,Normal,Normal
+531,60,85,6.1,98,160,130/90,96,512,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+532,63,64,6.2,98,132,70/40,82,148,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+533,45,66,5.3,98,115,90/60,87,45,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+534,50,67,4.5,98,45,73/51,75,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+535,60,84,6,98,102,140/90,95,105,Normal,Normal,Normal,Normal,Normal,Normal
+536,40,88,5.4,98,90,140/80,99,33,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+537,12,63,4.5,98,140,130/70,96,297,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+538,60,100,4.7,98,84,140/100,84,215,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+539,50,92,4.7,98,120,150/80,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+540,50,53,5.8,98,80,220/110,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+541,17,62,6,98,86,100/60,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+542,65,62,6.1,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+543,36,63,5.8,98,78,90/60,55,135,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+544,50,52,5.9,98,52,80/50,84,100,Normal,Normal,Normal,Normal,Normal,Normal
+545,26,95,5.2,98,94,110/50,99,352,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+546,55,77,6,98,80,130/80,82,120,Normal,Normal,Normal,Normal,Normal,Normal
+547,50,86,5.9,98,80,60/40,85,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+548,70,71,5.5,98,139,150/110,99,125,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+549,60,75,5.5,98,150,70/40,99,276,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+550,20,53,6.1,98,150,100/70,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+551,45,95,4.6,98,111,80/50,39,154,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+552,27,59,5.6,98,101,98/44,77,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+553,65,99,6,98,119,75/35,96,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+554,76,63,5.7,98,81,109/50,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+555,23,78,4.5,98,180,32/80,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+556,26,61,5,98,114,139/96,93,81,Normal,Normal,Normal,Normal,Normal,Normal
+557,35,98,6,98,148,50/13,86,82,Normal,Normal,Normal,Normal,Normal,Normal
+558,25,68,5,98,110,90/60,94,120,Normal,Normal,Normal,Normal,Normal,Normal
+559,18,60,5.5,98,140,46/17,94,120,Normal,Normal,Normal,Normal,Normal,Normal
+560,71,78,5.8,98,118,110/17,84,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+561,71,53,4.6,98,85,130/90,85,535,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+562,44,62,4.5,98,66,120/70,88,141,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+563,41,86,6.1,98,100,150/100,85,448,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+564,50,91,5.5,98,110,110/17,80,142,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+565,76,56,5.7,98,80,200/100,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+566,89,83,4.7,98,98,150/90,60,332,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+567,71,60,4.5,98,55,70/40,90,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+568,67,78,6.1,98,67,112/48,93,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+569,22,55,4.9,98,120,110/70,99,148,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+570,74,50,5.5,98,90,50/0,99,502,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+571,28,55,5.5,98,102,90/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+572,55,86,5.2,98,114,60/40,89,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+573,60,99,5.9,98,78,130/80,88,412,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+574,52,85,4.7,98,136,110/70,89,220,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+575,65,80,5.5,98,28,131/89,88,78,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+576,56,66,5.2,98,44,80/40,36,551,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+577,60,77,5.3,98,72,90/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+578,35,74,4.7,98,71,80/60,99,166,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+579,23,99,5,98,72,90/60,45,76,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+580,60,90,5.9,98,123,95/50,67,433,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+581,55,50,5.8,98,117,146/92,91,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+582,80,60,6,98,98,100/60,95,180,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+583,60,54,4.8,98,90,80/60,85,119,Normal,Normal,Normal,Normal,Normal,Normal
+584,55,66,5.5,98,86,90/60,92,32,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+585,60,79,6,98,98,117/61,99,143,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+586,80,83,5.4,98,83,136/37,62,80,Normal,Normal,Normal,Normal,Normal,Normal
+587,55,60,5.5,98,88,95/60,,22,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+588,65,78,6,98,95,180/100,86,132,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+589,63,64,5.5,98,79,171/103,98,234,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+590,45,58,5.3,98,80,190/110,95,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+591,60,83,6,98,88,150/90,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+592,50,57,4.6,98,81,110/60,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+593,75,75,5.1,98,114,110/70,99,104,Normal,Normal,Normal,Normal,Normal,Normal
+594,65,67,6,98,78,90/60,70,34,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+595,52,100,5.1,98,86,90/60,77,129,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+596,42,91,5.3,98,143,110/70,58,163,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+597,55,79,4.9,98,115,70/40,92,542,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+598,50,76,5.8,98,110,100/60,96,535,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+599,60,93,4.8,98,130,180/60,99,141,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+600,65,81,5,98,45,90/50,98,520,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+601,32,68,5.2,98,60,55/30,99,500,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+602,45,84,5.7,98,79,200/110,95,480,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+603,50,65,4.7,98,,,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+604,18,73,5.4,98,84,55/24,29,132,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+605,101,98,5.3,98,100,,98,28,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+606,50,90,5.5,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+607,14,55,4.7,98,140,170/120,65,448,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+608,16,100,6.1,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+609,60,56,5.2,98,,60/0,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+610,45,86,5.3,98,140,110/60,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+611,60,61,5.1,98,145,145/75,70,220,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+612,35,92,6.1,98,,120/110,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+613,65,75,4.9,98,45,110/70,98,97,Normal,Normal,Normal,Normal,Normal,Normal
+614,81,66,4.8,98,183,90/50,72,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+615,30,64,5.4,98,133,139/74,55,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+616,85,84,6,98,92,110/70,84,387,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+617,45,68,5.8,98,80,140/90,91,299,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+618,55,90,5.7,98,65,80/50,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+619,50,74,6.2,98,100,80/40,64,238,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+620,40,76,5.1,98,62,70/40,96,148,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+621,65,95,4.9,98,90,90/60,96,297,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+622,81,71,4.9,98,96,80/40,89,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+623,74,53,4.8,98,126,150/75,90,71,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+624,52,87,5.3,98,89,110/70,98,185,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+625,70,90,5.5,98,70,130/100,97,376,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+626,60,77,6.1,98,80,120/90,98,420,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+627,21,85,4.9,98,92,60/40,97,80,Normal,Normal,Normal,Normal,Normal,Normal
+628,50,65,6.1,98,100,140/85,99,428,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+629,45,90,4.7,98,104,93/95,92,420,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+630,55,84,4.8,98,78,220/120,97,120,Normal,Normal,Normal,Normal,Normal,Normal
+631,45,78,5.1,98,42,,66,76,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+632,60,85,5.8,98,120,110/70,87,513,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+633,60,86,6,98,70,130/80,82,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+634,65,95,5.8,98,120,200/140,92,248,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+635,55,72,5.4,98,95,47/25,91,940,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+636,80,72,4.7,98,65,60/30,93,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+637,71,96,5.9,98,67,138/86,69,175,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+638,60,76,5.7,98,90,120/80,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+639,55,91,5.4,98,89,170/90,80,178,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+640,60,85,5.6,98,143,165/100,94,138,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+641,12,97,6.1,98,86,80/40,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+642,40,57,5.8,98,96,110/70,99,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+643,60,72,5.3,98,69,106/56,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+644,71,69,5.3,98,100,83/45,83,82,Normal,Normal,Normal,Normal,Normal,Normal
+645,65,82,6.2,98,83,136/37,100,104,Normal,Normal,Normal,Normal,Normal,Normal
+646,60,100,4.6,98,88,95/60,102,189,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+647,60,53,5.8,98,95,180/100,24,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+648,45,77,5.9,98,79,171/103,98,252,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+649,27,72,6,98,80,190/110,80,96,Normal,Normal,Normal,Normal,Normal,Normal
+650,45,75,4.6,98,80,130/88,85,94,Normal,Normal,Normal,Normal,Normal,Normal
+651,55,57,4.6,98,96,70/40,99,533,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+652,60,55,5.3,98,104,150/90,99,371,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+653,60,54,5.4,98,134,100/60,83,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+654,55,59,6.2,98,117,84/49,77,390,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+655,55,60,4.7,98,125,80/40,92,140,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+656,60,65,5.2,98,100,120/80,91,281,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+657,28,92,5.9,98,150,120/63,95,106,Normal,Normal,Normal,Normal,Normal,Normal
+658,55,82,6.1,98,88,85/40,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+659,60,74,6.1,98,81,73/42,100,244,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+660,52,89,5.7,98,40,72/38,83,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+661,45,76,5.4,98,52,60/30,99,99,Normal,Normal,Normal,Normal,Normal,Normal
+662,14,89,5.5,98,116,100/60,62,99,Normal,Normal,Normal,Normal,Normal,Normal
+663,60,93,6,98,,130/70,64,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+664,71,84,5.7,98,60,50/0,94,27,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+665,80,85,5.8,98,91,147/81,93,226,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+666,50,55,5.2,98,90,130/80,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+667,45,97,5.7,98,110,80/40,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+668,45,77,5.5,98,88,100/70,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+669,65,93,5.8,98,45,88/65,45,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+670,14,75,4.8,98,,75/35,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+671,85,54,5.5,98,,70/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+672,71,83,6.2,98,110,167/107,78,188,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+673,45,50,5.9,98,,60/40,77,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+674,67,92,4.7,98,85,110/70,93,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+675,30,89,4.5,98,67,90/60,76,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+676,71,92,5.9,98,145,73/41,97,304,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+677,50,61,5.7,98,40,90/6,99,114,Normal,Normal,Normal,Normal,Normal,Normal
+678,50,87,6,98,63,86/50,97,92,Normal,Normal,Normal,Normal,Normal,Normal
+679,90,100,5,98,,,,27,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+680,81,95,4.8,98,117,63/31,98,72,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+681,22,88,4.7,98,90,60/40,97,429,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+682,35,64,5.4,98,108,67/53,95,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+683,30,79,5.4,98,103,140/90,85,140,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+684,45,51,4.9,98,102,90/60,99,36,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+685,55,87,5.2,98,86,200/100,91,220,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+686,60,74,5.6,98,69,140/70,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+687,51,92,5.8,98,92,114/58,99,161,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+688,45,70,4.5,98,88,140/90,95,222,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+689,15,74,6.2,98,,133/75,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+690,14,66,6.1,98,160,100/60,100,90,Normal,Normal,Normal,Normal,Normal,Normal
+691,35,99,6,98,39,106/56,99,127,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+692,65,58,4.6,98,121,148/86,92,128,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+693,65,73,5.7,98,64,140/91,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+694,86,64,6.2,98,114,90/50,86,135,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+695,55,97,5.9,98,60,74/48,99,275,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+696,26,75,6.1,98,94,110/50,99,352,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+697,55,88,5.3,98,80,130/80,82,120,Normal,Normal,Normal,Normal,Normal,Normal
+698,50,91,6.1,98,80,60/40,85,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+699,71,60,5.8,98,60,50/0,94,27,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+700,90,79,4.9,98,110,106/56,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+701,81,65,4.8,98,130,83/45,,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+702,22,58,5.6,98,45,136/37,99,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+703,35,92,4.6,98,60,95/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+704,30,90,4.8,98,79,180/100,83,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+705,45,80,6.2,98,95,171/103,100,81,Normal,Normal,Normal,Normal,Normal,Normal
+706,55,74,5,98,84,190/110,102,82,Normal,Normal,Normal,Normal,Normal,Normal
+707,60,82,5.6,98,100,130/88,24,120,Normal,Normal,Normal,Normal,Normal,Normal
+708,51,54,4.8,98,85,106/56,98,120,Normal,Normal,Normal,Normal,Normal,Normal
+709,60,62,5.7,98,140,150/90,80,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+710,55,93,6,98,86,100/60,85,535,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+711,60,74,5,98,95,84/49,99,141,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+712,12,99,5.1,98,140,80/40,99,448,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+713,40,88,5.7,98,145,120/80,83,142,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+714,60,55,5,98,,120/63,77,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+715,71,99,6.2,98,45,85/40,92,332,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+716,65,53,5.5,98,183,73/42,91,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+717,60,94,5.4,98,133,72/38,95,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+718,60,63,6.1,98,92,60/30,100,148,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+719,45,97,4.7,98,80,133/75,99,502,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+720,27,59,5.8,98,65,100/60,92,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+721,45,64,5.4,98,100,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+722,55,86,5.9,98,62,148/86,86,412,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+723,60,82,5.6,98,63,140/91,99,220,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+724,60,78,5.9,98,96,90/50,,78,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+725,55,53,4.6,98,126,74/48,82,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+726,85,100,4.8,98,89,110/50,85,222,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+727,45,100,5.7,98,70,130/80,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+728,55,93,5,98,80,60/40,94,90,Normal,Normal,Normal,Normal,Normal,Normal
+729,50,99,4.5,98,92,50/1,99,127,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+730,40,91,5.2,98,100,106/56,99,128,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+731,65,84,5,98,104,83/45,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+732,81,71,5.6,98,140,136/37,83,135,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+733,74,64,4.8,98,98,95/60,100,275,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+734,52,63,4.9,98,100,180/100,102,352,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+735,70,82,5.7,98,140,171/103,24,120,Normal,Normal,Normal,Normal,Normal,Normal
+736,60,56,5,98,145,190/110,98,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+737,21,67,4.6,98,,130/88,80,27,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+738,50,53,5,98,45,,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+739,45,86,5.1,98,183,150/90,81,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+740,49,95,5.1,98,133,100/60,81,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+741,65,63,4.5,98,92,,80,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+742,35,56,6,98,80,100/60,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+743,76,94,6,98,65,62/36,70,81,Normal,Normal,Normal,Normal,Normal,Normal
+744,72,93,6.2,98,100,100/70,96,82,Normal,Normal,Normal,Normal,Normal,Normal
+745,72,74,5.6,98,62,130/90,90,120,Normal,Normal,Normal,Normal,Normal,Normal
+746,79,79,5.9,98,133,106/56,99,120,Normal,Normal,Normal,Normal,Normal,Normal
+747,71,80,5,98,92,90/60,48,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+748,90,86,5.8,98,80,110/86,95,535,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+749,65,77,5.5,98,65,130/90,99,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+750,60,56,4.8,98,100,101/60,55,?,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+751,63,81,5.7,98,62,160/80,65,275,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+752,81,81,5.5,98,75,100/60,95,353,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+753,65,68,5.9,98,96,100/45,99,185,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+754,71,68,5.4,98,126,80/50,97,147,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+755,60,53,5.3,98,89,90/60,88,164,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+756,38,82,4.6,98,70,45/10,99,350,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+757,55,60,5.2,98,80,180/100,99,80,Normal,Normal,Normal,Normal,Normal,Normal
+758,77,100,5.8,98,92,110/60,,?,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+759,50,88,5,98,100,90/40,83,246,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+760,57,64,5.3,98,54,110/70,100,177,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+761,46,65,5.8,98,84,180/100,102,317,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+762,60,83,5.4,98,65,171/103,24,152,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+763,71,50,4.6,98,95,190/110,98,82,Normal,Normal,Normal,Normal,Normal,Normal
+764,65,87,5.9,98,90,130/88,80,273,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+765,64,100,5.3,98,90,180/100,85,352,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+766,44,95,4.9,98,40,150/90,81,120,Normal,Normal,Normal,Normal,Normal,Normal
+767,50,59,4.8,98,122,100/60,81,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+768,32,89,6.1,98,96,,80,27,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+769,38,53,5.2,98,90,100/60,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+770,40,80,6.1,98,144,62/36,70,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+771,80,67,4.6,98,100,100/70,96,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+772,16,79,5.7,98,123,130/90,125,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+773,59,55,4.9,98,112,,82,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+774,45,57,5.7,98,120,90/60,99,81,Normal,Normal,Normal,Normal,Normal,Normal
+775,30,74,4.9,98,109,110/86,83,82,Normal,Normal,Normal,Normal,Normal,Normal
+776,76,90,5.7,98,95,45/10,99,120,Normal,Normal,Normal,Normal,Normal,Normal
+777,65,50,5.1,98,79,180/100,99,120,Normal,Normal,Normal,Normal,Normal,Normal
+778,19,70,5.7,98,80,110/60,90,168,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+779,52,66,5.5,98,110,90/40,99,88,Normal,Normal,Normal,Normal,Normal,Normal
+780,90,71,5.4,98,69,110/70,91,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+781,78,53,5.2,98,78,180/100,99,197,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+782,55,97,4.8,98,34,171/103,90,161,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+783,71,76,4.9,98,62,190/110,85,551,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+784,60,97,4.6,98,,130/88,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+785,30,83,6.1,98,96,160/83,95,166,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+786,76,79,4.6,98,126,150/90,,76,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+787,65,74,6,98,89,100/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+788,19,74,5.4,98,70,80/60,100,128,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+789,52,52,6.2,98,80,90/60,99,214,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+790,90,83,4.6,98,92,90/40,10,32,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+791,78,75,6,98,100,110/70,24,143,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+792,55,58,5.2,98,54,110/60,98,80,Normal,Normal,Normal,Normal,Normal,Normal
+793,71,78,5.7,98,84,,80,22,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+794,60,92,6,98,65,45/10,85,97,Normal,Normal,Normal,Normal,Normal,Normal
+795,78,71,5.4,98,95,180/100,81,253,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+796,65,69,4.6,98,90,70/30,81,88,Normal,Normal,Normal,Normal,Normal,Normal
+797,40,53,6,98,90,70/30,80,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+798,71,77,5.4,98,40,90/60,99,197,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+799,21,98,6,98,122,91/42,70,161,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+800,71,81,5.4,98,89,110/70,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+801,87,91,5.5,98,67,180/130,99,134,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+802,60,76,5.1,98,80,110/70,93,232,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+803,55,74,5.3,98,80,130/70,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+804,22,78,6,98,82,60/30,90,172,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+805,60,58,4.7,98,96,130/70,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+806,24,53,4.5,98,102,100/70,89,319,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+807,71,83,5.2,98,103,115/55,96,56,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+808,60,60,4.7,98,110,100/60,88,68,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+809,78,81,6,98,116,108/67,96,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+810,65,52,4.8,98,143,60/30,,56,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+811,40,90,5.3,98,116,210/120,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+812,71,82,5.8,98,122,120/60,99,591,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+813,21,79,6.1,98,83,110/80,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+814,81,80,5.2,98,126,102/77,96,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+815,71,83,5.9,98,92,100/70,99,105,Normal,Normal,Normal,Normal,Normal,Normal
+816,76,87,4.8,98,86,60/1,64,307,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+817,30,84,5.4,98,98,110/70,99,121,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+818,71,81,4.7,98,100,180/100,99,139,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+819,30,84,4.8,98,,80/50,88,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+820,70,82,5.2,98,80,107/58,91,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+821,71,53,5.9,98,140,90/60,80,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+822,71,78,5.7,98,73,52/31,96,189,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+823,45,75,5.8,98,110,0/0,78,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+824,50,63,6.1,98,84,120/80,99,160,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+825,84,98,6,98,68,100/60,80,142,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+826,27,61,5.5,98,97,132/81,80,309,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+827,40,75,4.7,98,48,80/50,93,66,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+828,86,53,6.1,98,48,110/70,95,65,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+829,60,50,4.6,98,110,60/40,91,125,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+830,24,99,5.7,98,45,160/83,99,135,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+831,53,87,5,98,120,160/100,99,273,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+832,50,74,5.5,98,96,83/59,63,156,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+833,49,59,5.8,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+834,65,68,4.9,98,84,110/70,99,132,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+835,35,82,5.7,98,129,106/60,99,129,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+836,76,62,4.8,98,132,90/48,89,81,Normal,Normal,Normal,Normal,Normal,Normal
+837,72,98,6.1,98,94,100/60,89,141,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+838,72,81,5,98,120,110/60,65,356,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+839,79,98,5.6,98,55,,60,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+840,71,92,6.2,98,68,100/60,94,159,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+841,90,96,4.6,98,65,100/70,99,166,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+842,65,87,4.6,98,102,95/50,75,104,Normal,Normal,Normal,Normal,Normal,Normal
+843,60,100,5.2,98,125,106/60,88,229,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+844,63,67,5.3,98,,,80,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+845,81,91,6.2,98,94,160/100,56,154,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+846,65,92,5.8,98,108,70/40,92,58,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+847,71,100,5.3,98,80,260/160,96,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+848,60,92,5.4,98,,70/40,90,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+849,38,66,5.4,98,62,30/0,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+850,55,94,4.9,98,62,70/50,75,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+851,50,77,4.6,98,,173/105,90,34,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+852,76,92,6.1,98,84,130/90,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+853,76,60,5.2,98,122,160/83,91,100,Normal,Normal,Normal,Normal,Normal,Normal
+854,55,65,4.9,98,90,66/36,92,124,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+855,71,76,4.8,98,105,135/115,93,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+856,70,72,5.1,98,110,150/100,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+857,60,92,6.1,98,,80/50,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+858,18,60,4.8,98,89,120/80,84,148,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+859,31,98,5.2,98,90,180/120,94,149,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+860,55,87,5.8,98,128,111/64,78,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+861,45,59,5.8,98,72,90/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+862,65,85,5.6,98,80,85/50,99,87,Normal,Normal,Normal,Normal,Normal,Normal
+863,42,70,5.5,98,112,90/45,97,197,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+864,35,54,4.6,98,,,48,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+865,20,53,4.7,98,88,150/100,91,114,Normal,Normal,Normal,Normal,Normal,Normal
+866,81,59,5.2,98,,80/40,75,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+867,71,93,4.7,98,110,140/90,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+868,22,63,5,98,100,80/40,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+869,50,84,5,98,96,100/60,99,220,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+870,65,83,4.6,98,96,70/40,58,122,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+871,78,75,6.1,98,106,145/90,83,282,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+872,60,73,5,98,104,80/50,99,182,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+873,76,66,5.2,98,60,80/60,97,461,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+874,71,82,6,98,85,80/40,92,441,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+875,55,64,5.1,98,70,80/50,,42,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+876,50,85,5.2,98,,,68,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+877,65,90,5.1,98,80,110/70,55,579,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+878,25,79,5,98,45,116/72,88,113,Normal,Normal,Normal,Normal,Normal,Normal
+879,50,63,5.7,98,120,130/80,92,74,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+880,71,59,4.5,98,108,130/80,95,86,Normal,Normal,Normal,Normal,Normal,Normal
+881,71,59,5.1,98,30,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+882,36,75,6.1,98,111,50/20,98,189,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+883,20,73,5.2,98,53,66/38,86,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+884,71,50,5.2,98,95,110/70,90,325,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+885,65,51,5.1,98,,110/50,,68,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+886,65,84,5.1,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+887,80,97,5.9,98,130,60/30,94,83,Normal,Normal,Normal,Normal,Normal,Normal
+888,65,83,4.6,98,55,50/20,99,366,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+889,65,70,5.4,98,127,80/50,84,228,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+890,28,91,5.4,98,126,145/85,82,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+891,51,54,5.5,98,65,70/40,84,111,Normal,Normal,Normal,Normal,Normal,Normal
+892,17,77,5.9,98,86,70/00,90,125,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+893,45,63,5.1,98,96,47/25,92,125,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+894,71,51,4.9,98,,130/90,89,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+895,70,91,5.1,98,85,48/33,97,171,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+896,86,63,6.1,98,35,116/72,58,102,Normal,Normal,Normal,Normal,Normal,Normal
+897,50,81,6,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+898,60,56,5,98,,,90,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+899,77,98,4.7,98,92,119/55,86,351,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+900,50,81,5.7,98,97,180/109,96,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+901,57,79,5.8,98,50,70/04,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+902,46,72,5.3,98,70,140/90,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+903,60,50,4.7,98,129,96/58,56,350,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+904,71,68,5,98,70,100/70,98,121,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+905,65,100,5.2,98,133,128/70,98,116,Normal,Normal,Normal,Normal,Normal,Normal
+906,64,92,5.8,98,,,,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+907,44,68,5.7,98,78,55/40,80,139,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+908,50,53,5.5,98,116,85/41,96,115,Normal,Normal,Normal,Normal,Normal,Normal
+909,32,80,4.8,98,,55/30,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+910,38,78,5.7,98,45,116/72,99,400,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+911,40,59,5.4,98,95,68/35,98,24,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+912,80,53,4.9,98,134,135/78,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+913,16,82,5.8,98,,,60,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+914,59,72,4.8,98,202,54/33,99,73,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+915,45,70,5.9,98,96,61/40,92,600,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+916,30,64,5.9,98,142,102/49,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+917,76,51,6,98,82,113/71,80,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+918,65,71,5.4,98,144,160/100,86,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+919,19,55,4.8,98,104,90/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+920,52,66,5.5,98,65,135/78,87,238,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+921,90,97,5.8,98,,60/0,88,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+922,78,62,5.5,98,119,80/60,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+923,55,72,4.6,98,88,100/70,99,126,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+924,80,69,5.2,98,57,90/60,78,427,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+925,87,89,6,98,114,90/40,89,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+926,35,67,5.9,98,175,98/63,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+927,60,55,5.5,98,78,97/73,65,132,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+928,42,71,4.9,98,101,100/50,,71,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+929,60,84,4.9,98,99,83/48,99,317,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+930,60,79,5.5,98,104,90/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+931,40,73,4.9,98,107,167/91,75,295,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+932,17,78,6.1,98,148,90/60,45,137,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+933,35,60,5.8,98,93,130/80,72,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+934,73,65,5.7,98,83,,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+935,60,92,5.9,98,118,120/80,75,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+936,31,87,6.2,98,101,110/70,78,96,Normal,Normal,Normal,Normal,Normal,Normal
+937,45,64,5.9,98,99,106/65,98,510,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+938,48,92,5.3,98,98,130/90,80,311,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+939,45,57,6.2,98,95,100/70,99,83,Normal,Normal,Normal,Normal,Normal,Normal
+940,70,55,5.2,98,35,40/1,50,280,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+941,32,81,6.1,98,110,116/80,90,88,Normal,Normal,Normal,Normal,Normal,Normal
+942,50,53,5.7,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+943,21,73,5.6,98,,80/40,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+944,70,80,5.1,98,100,113/39,100,80,Normal,Normal,Normal,Normal,Normal,Normal
+945,90,95,5.3,98,112,100/45,90,90,Normal,Normal,Normal,Normal,Normal,Normal
+946,35,85,4.7,98,115,60/1,40,450,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+947,18,69,6.1,98,,110/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+948,65,61,4.8,98,80,150/90,93,274,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+949,45,80,4.8,98,122,117/78,99,96,Normal,Normal,Normal,Normal,Normal,Normal
+950,14,98,5.2,98,86,150/80,93,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+951,50,78,5.1,98,74,100/45,99,246,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+952,74,58,4.9,98,68,80/50,86,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+953,80,72,6.2,98,,,,44,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+954,68,82,5.7,98,109,94/61,98,158,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+955,52,85,5.3,98,,,90,38,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+956,60,56,5.8,98,120,80/40,94,110,Normal,Normal,Normal,Normal,Normal,Normal
+957,22,84,6.2,98,140,140/90,98,98,Normal,Normal,Normal,Normal,Normal,Normal
+958,,94,4.9,98,126,74/48,96,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+959,71,72,5.5,98,89,110/50,99,105,Normal,Normal,Normal,Normal,Normal,Normal
+960,80,91,5.7,98,70,130/80,64,307,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+961,65,64,5.9,98,80,60/40,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+962,65,74,6,98,92,50/0,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+963,51,83,6,98,100,106/56,84,148,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+964,17,80,5.9,98,104,83/45,94,149,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+965,45,79,4.8,98,140,136/37,78,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+966,70,66,4.9,98,,95/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+967,86,55,5.4,98,105,180/100,99,87,Normal,Normal,Normal,Normal,Normal,Normal
+968,77,94,5,98,140,171/103,97,197,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+969,60,99,5.2,98,145,190/110,48,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+970,71,54,5.7,98,116,130/88,91,114,Normal,Normal,Normal,Normal,Normal,Normal
+971,65,52,4.7,98,122,100/60,75,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+972,44,82,5.3,98,96,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+973,50,77,5.8,98,90,100/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+974,38,78,5.8,98,144,62/36,99,220,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+975,80,71,5.7,98,100,100/70,58,122,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+976,45,51,6,98,123,130/90,83,282,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+977,52,63,4.5,98,112,100/45,99,182,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+978,78,63,4.7,98,120,90/60,97,461,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+979,55,68,4.6,98,109,110/86,92,441,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+980,80,77,5.3,98,,45/10,,42,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+981,60,91,5.2,98,79,180/100,68,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+982,65,78,5.1,98,80,110/60,55,579,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+983,55,76,5.7,98,110,90/40,60,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+984,21,95,5.8,98,118,110/70,94,159,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+985,45,52,5.7,98,78,180/100,99,166,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+986,23,67,6,98,96,100/45,75,104,Normal,Normal,Normal,Normal,Normal,Normal
+987,50,68,5.3,98,126,80/50,88,229,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+988,45,68,5.9,98,89,90/60,80,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+989,62,80,4.5,98,70,45/10,56,154,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+990,45,75,5.6,98,80,180/100,92,58,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+991,80,66,6.2,98,92,110/60,96,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+992,60,63,4.7,98,100,90/40,90,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+993,65,70,5.5,98,54,110/70,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+994,55,51,5.3,98,84,180/100,75,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+995,80,78,6.1,98,65,171/103,90,34,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+996,60,80,5.6,98,95,190/110,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+997,65,67,6,98,90,130/88,91,100,Normal,Normal,Normal,Normal,Normal,Normal
+998,55,91,5.7,98,90,100/45,92,124,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+999,45,84,5.9,98,40,150/90,93,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1000,46,75,5.8,98,84,180/100,102,317,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1001,60,65,5.5,98,65,171/103,24,152,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1002,71,72,6.1,98,95,190/110,98,82,Normal,Normal,Normal,Normal,Normal,Normal
+1003,65,90,4.6,98,90,130/88,80,273,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1004,64,83,5.8,98,90,180/100,85,352,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1005,44,68,5.9,98,40,150/90,81,120,Normal,Normal,Normal,Normal,Normal,Normal
+1006,45,85,5.4,98,120,90/60,99,81,Normal,Normal,Normal,Normal,Normal,Normal
+1007,30,57,4.8,98,109,110/86,83,82,Normal,Normal,Normal,Normal,Normal,Normal
+1008,76,71,4.6,98,95,45/10,99,120,Normal,Normal,Normal,Normal,Normal,Normal
+1009,65,56,5.2,98,79,180/100,99,120,Normal,Normal,Normal,Normal,Normal,Normal
+1010,19,93,5.7,98,80,110/60,90,168,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1011,52,85,4.5,98,110,90/40,99,88,Normal,Normal,Normal,Normal,Normal,Normal
+1012,90,81,5.1,98,69,110/70,91,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1013,78,70,5.2,98,78,180/100,99,197,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1014,55,53,5.6,98,34,171/103,90,161,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1015,71,62,5.1,98,62,190/110,85,551,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1016,30,93,5,98,96,160/83,95,166,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1017,19,97,5.8,98,70,80/60,100,128,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1018,52,81,5.5,98,80,90/60,99,214,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1019,70,72,5,98,88,160/100,68,138,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1020,25,97,6,98,142,120/70,89,172,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1021,50,81,5.2,98,100,90/60,90,90,Normal,Normal,Normal,Normal,Normal,Normal
+1022,70,84,6.1,98,88,70/40,74,92,Normal,Normal,Normal,Normal,Normal,Normal
+1023,60,59,5,98,100,90/60,96,381,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1024,32,66,5,98,68,100/70,65,101,Normal,Normal,Normal,Normal,Normal,Normal
+1025,61,77,4.8,98,63,70/50,98,143,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1026,55,64,4.8,98,60,100/70,82,123,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1027,60,76,6,98,80,80/50,40,222,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1028,45,58,4.7,98,88,130/90,68,180,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1029,60,51,4.8,98,90,160/100,89,293,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1030,50,59,5.2,98,72,90/60,90,150,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1031,65,98,6.2,98,71,80/60,91,302,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1032,75,94,5.8,98,120,110/70,92,183,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1033,70,76,5.6,98,90,110/60,40,330,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1034,65,91,4.9,98,78,180/100,89,639,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1035,25,51,5.8,98,70,70/30,90,234,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1036,60,84,5.1,98,132,91/42,99,168,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1037,50,86,6.1,98,88,130/90,40,88,Normal,Normal,Normal,Normal,Normal,Normal
+1038,50,94,5.4,98,78,200/110,78,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1039,50,89,5.7,98,124,110/70,68,197,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1040,50,96,5.9,98,80,80/40,89,161,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1041,80,95,4.5,100,100,100/70,90,551,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1042,65,90,6.1,98,78,90/60,90,166,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1043,22,99,4.8,98,80,80/60,40,128,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1044,78,63,5.7,98,96,110/70,78,214,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1045,62,82,5.2,98,140,53/31,89,143,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1046,19,51,6,98,80,110/60,90,168,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1047,52,59,5,98,110,90/40,99,88,Normal,Normal,Normal,Normal,Normal,Normal
+1048,90,54,4.7,98,69,110/70,91,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1049,78,65,5.1,98,78,180/100,99,197,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1050,55,100,5,98,34,171/103,90,161,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1051,71,73,5.9,98,62,190/110,85,551,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1052,30,78,5.7,98,96,160/83,95,166,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1053,19,79,5.7,98,70,80/60,100,128,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1054,52,98,5.2,98,80,90/60,99,214,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1055,70,77,5.6,98,88,160/100,68,138,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1056,25,59,4.7,98,142,120/70,89,172,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1057,50,56,5.6,98,100,90/60,90,90,Normal,Normal,Normal,Normal,Normal,Normal
+1058,70,80,5.4,98,88,70/40,74,92,Normal,Normal,Normal,Normal,Normal,Normal
+1059,60,71,5.3,98,100,90/60,96,381,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1060,32,82,4.6,98,68,100/70,65,101,Normal,Normal,Normal,Normal,Normal,Normal
+1061,61,72,5.3,98,63,70/50,98,143,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1062,55,87,5.6,98,60,100/70,82,123,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1063,60,77,4.8,98,80,80/50,40,222,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1064,45,96,5.9,98,88,130/90,68,180,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1065,60,73,5.5,98,90,160/100,89,293,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1066,50,66,4.5,98,72,90/60,90,150,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1067,65,91,5.1,98,71,80/60,91,302,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1068,75,74,6.2,98,120,110/70,92,183,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1069,78,100,5.4,98,112,110/70,91,214,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1070,50,67,4.9,98,78,90/60,90,357,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1071,35,57,5.7,98,92,130/60,85,96,Normal,Normal,Normal,Normal,Normal,Normal
+1072,80,91,5.4,98,84,170/100,70,97,Normal,Normal,Normal,Normal,Normal,Normal
+1073,55,89,5.9,98,82,90/60,125,253,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1074,45,88,5.2,98,96,230/130,82,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1075,60,82,5.2,98,86,120/80,98,180,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1076,80,51,4.9,100,100,100/70,99,551,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1077,65,97,5.8,98,78,90/60,90,166,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1078,45,90,4.7,98,79,110/70,91,433,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1079,61,81,4.6,98,92,70/40,90,180,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1080,37,78,5,98,128,15/70,85,119,Normal,Normal,Normal,Normal,Normal,Normal
+1081,62,98,4.9,98,140,53/31,95,143,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1082,47,57,4.8,99,88,60/0,98,80,Normal,Normal,Normal,Normal,Normal,Normal
+1083,16,93,5.1,98,150,134/80,100,132,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1084,25,71,5.7,98,70,70/30,78,234,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1085,50,82,5.5,98,86,80/32,96,104,Normal,Normal,Normal,Normal,Normal,Normal
+1086,70,56,5.4,98,111,75/47,98,129,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1087,22,93,6.1,99,100,180/100,86,163,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1088,77,100,5.8,98,92,119/55,86,351,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1089,60,61,6.2,98,129,96/58,56,350,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1090,71,55,4.8,98,70,100/70,98,121,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1091,65,80,6.1,98,133,128/70,98,116,Normal,Normal,Normal,Normal,Normal,Normal
+1092,44,52,6,98,78,55/40,80,139,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1093,50,87,5.9,98,116,85/41,96,115,Normal,Normal,Normal,Normal,Normal,Normal
+1094,38,59,5.7,98,45,116/72,99,400,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1095,80,63,6.2,98,134,135/78,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1096,45,57,4.6,98,96,61/40,92,600,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1097,52,69,4.5,98,65,135/78,87,238,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1098,78,71,4.8,98,119,80/60,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1099,55,51,5.7,98,88,100/70,99,126,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1100,80,84,5.2,98,57,90/60,78,427,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1101,60,70,5.6,98,85,191/141,99,54,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1102,60,89,5.3,98,120,130/80,58,553,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1103,55,55,5.3,98,88,185/110,71,80,Normal,Normal,Normal,Normal,Normal,Normal
+1104,53,73,5.1,98,120,140/80,181,296,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1105,42,78,5.7,98,68,70/40,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1106,30,97,6,98,86,130/90,95,119,Normal,Normal,Normal,Normal,Normal,Normal
+1107,28,82,5.7,98,117,73/43,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1108,60,86,5,98,88,120/80,98,149,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1109,35,95,5.6,98,89,60/1,25,200,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1110,80,91,5.2,98,91,110/70,78,106,Normal,Normal,Normal,Normal,Normal,Normal
+1111,35,85,6,98,89,120/80,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1112,37,86,5.5,98,114,120/110,99,102,Normal,Normal,Normal,Normal,Normal,Normal
+1113,40,69,4.9,98,82,90/60,71,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1114,55,93,5.9,98,69,70/30,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1115,35,56,6.1,98,102,110/70,87,504,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1116,45,83,4.9,98,44,80/40,51,139,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1117,50,57,4.6,98,72,90/60,89,150,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1118,65,64,5.7,98,71,80/60,91,302,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1119,70,89,5.5,98,72,90/60,98,72,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1120,30,67,5.6,98,123,95/50,90,142,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1121,33,87,5.2,98,117,146/92,90,137,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1122,26,94,5.4,98,98,100/60,,60,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1123,50,87,4.7,98,90,80/60,97,134,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1124,50,85,4.6,98,86,90/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1125,55,62,6,102,98,117/61,94,92,Normal,Normal,Normal,Normal,Normal,Normal
+1126,65,97,4.5,98,83,136/37,100,104,Normal,Normal,Normal,Normal,Normal,Normal
+1127,60,79,5.6,98,88,95/60,102,189,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1128,60,67,5.3,98,95,180/100,24,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1129,45,81,6.1,98,79,171/103,98,252,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1130,27,74,4.6,98,80,190/110,80,96,Normal,Normal,Normal,Normal,Normal,Normal
+1131,50,84,5,98,88,150/90,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1132,26,88,6.1,98,81,110/60,89,121,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1133,65,53,5.4,98,114,110/70,97,92,Normal,Normal,Normal,Normal,Normal,Normal
+1134,40,77,5.3,98,78,90/60,94,215,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1135,70,72,5.1,98,86,90/60,100,26,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1136,17,50,4.7,98,143,110/70,102,140,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1137,75,96,4.7,98,,,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1138,80,83,5.2,98,110,100/60,97,82,Normal,Normal,Normal,Normal,Normal,Normal
+1139,38,82,5.9,98,45,116/72,99,400,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1140,80,77,6.1,98,134,135/78,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1141,45,69,4.9,98,96,61/40,92,600,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1142,52,92,5.2,98,65,135/78,87,238,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1143,78,77,5.3,98,119,80/60,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1144,55,55,6,98,88,100/70,99,126,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1145,80,99,6,98,57,90/60,78,427,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1146,60,50,4.8,98,85,191/141,99,54,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1147,60,60,5.6,98,120,130/80,58,553,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1148,55,80,5.9,98,88,185/110,71,80,Normal,Normal,Normal,Normal,Normal,Normal
+1149,53,77,6,98,120,140/80,181,296,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1150,42,86,5.6,98,68,70/40,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1151,30,82,5.8,98,86,130/90,95,119,Normal,Normal,Normal,Normal,Normal,Normal
+1152,28,57,5.8,98,117,73/43,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1153,60,52,5.1,98,88,120/80,98,149,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1154,35,100,5.2,98,89,60/1,25,200,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1155,80,57,5.5,98,91,110/70,78,106,Normal,Normal,Normal,Normal,Normal,Normal
+1156,35,91,5,98,89,120/80,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1157,37,83,5.3,98,114,120/110,99,102,Normal,Normal,Normal,Normal,Normal,Normal
+1158,40,67,5.9,98,82,90/60,71,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1159,55,89,6,98,69,70/30,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1160,55,76,5.5,102,98,117/61,94,92,Normal,Normal,Normal,Normal,Normal,Normal
+1161,65,95,5.6,98,83,136/37,100,104,Normal,Normal,Normal,Normal,Normal,Normal
+1162,60,56,5.2,98,88,95/60,102,189,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1163,60,98,5.4,98,95,180/100,24,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1164,45,61,5.5,98,79,171/103,98,252,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1165,27,83,4.7,98,80,190/110,80,96,Normal,Normal,Normal,Normal,Normal,Normal
+1166,50,94,5.4,98,88,150/90,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1167,26,73,6,98,81,110/60,89,121,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1168,65,100,5.4,98,114,110/70,97,92,Normal,Normal,Normal,Normal,Normal,Normal
+1169,40,97,5.8,98,78,90/60,94,215,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1170,70,79,4.6,98,86,90/60,100,26,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1171,17,65,4.8,98,143,110/70,102,140,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1172,75,57,5.4,98,,,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1173,80,52,4.8,98,110,100/60,97,82,Normal,Normal,Normal,Normal,Normal,Normal
+1174,38,50,4.9,98,45,116/72,99,400,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1175,80,73,5.1,98,134,135/78,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1176,45,78,5.4,98,96,61/40,92,600,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1177,52,91,5.9,98,65,135/78,87,238,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1178,78,60,5.3,98,119,80/60,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1179,55,68,5.4,98,88,100/70,99,126,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1180,80,62,5.1,98,57,90/60,78,427,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1181,60,87,5.2,98,85,191/141,99,54,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1182,60,78,5.7,98,120,130/80,58,553,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1183,55,77,6,98,88,185/110,71,80,Normal,Normal,Normal,Normal,Normal,Normal
+1184,53,69,4.5,98,120,140/80,181,296,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1185,42,100,4.8,98,68,70/40,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1186,80,69,5.6,98,57,90/60,78,427,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1187,60,90,5.3,98,85,191/141,99,54,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1188,60,62,5,98,120,130/80,58,553,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1189,55,65,4.9,98,88,185/110,71,80,Normal,Normal,Normal,Normal,Normal,Normal
+1190,53,84,4.8,98,120,140/80,181,296,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1191,42,57,4.8,98,68,70/40,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1192,30,52,6,98,86,130/90,95,119,Normal,Normal,Normal,Normal,Normal,Normal
+1193,28,98,5.2,98,117,73/43,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1194,60,50,5.4,98,88,120/80,98,149,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1195,35,57,4.7,98,89,60/1,25,200,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1196,80,70,5,98,91,110/70,78,106,Normal,Normal,Normal,Normal,Normal,Normal
+1197,35,71,5.9,98,89,120/80,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1198,37,96,5.8,98,114,120/110,99,102,Normal,Normal,Normal,Normal,Normal,Normal
+1199,40,70,5.1,98,82,90/60,71,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1200,55,74,4.8,98,69,70/30,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1201,55,81,5.5,102,98,117/61,94,92,Normal,Normal,Normal,Normal,Normal,Normal
+1202,65,100,6.1,98,83,136/37,100,104,Normal,Normal,Normal,Normal,Normal,Normal
+1203,60,57,6,98,88,95/60,102,189,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1204,75,88,4.7,98,,,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1205,80,85,5.4,98,110,100/60,97,82,Normal,Normal,Normal,Normal,Normal,Normal
+1206,38,83,5,98,45,116/72,99,400,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1207,80,55,4.6,98,134,135/78,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1208,45,63,5.1,98,96,61/40,92,600,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1209,52,74,4.9,98,65,135/78,87,238,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1210,78,68,5.7,98,119,80/60,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1211,55,64,4.9,98,88,100/70,99,126,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1212,80,91,5.5,98,57,90/60,78,427,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1213,60,58,5.9,98,85,191/141,99,54,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1214,60,72,4.7,98,120,130/80,58,553,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1215,55,74,5.2,98,88,185/110,71,80,Normal,Normal,Normal,Normal,Normal,Normal
+1216,53,83,6.1,98,120,140/80,181,296,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1217,42,95,4.9,98,68,70/40,70,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1218,80,66,4.8,98,57,90/60,78,427,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1219,60,96,5.2,98,85,191/141,99,54,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1220,60,53,4.6,98,120,130/80,58,553,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1221,55,89,4.6,98,88,185/110,71,80,Normal,Normal,Normal,Normal,Normal,Normal
+1222,60,96,5.9,98,88,120/80,98,149,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1223,35,100,5.8,98,89,60/1,25,200,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1224,80,70,4.6,98,91,110/70,78,106,Normal,Normal,Normal,Normal,Normal,Normal
+1225,35,88,5.6,98,89,120/80,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1226,37,88,5.2,98,114,120/110,99,102,Normal,Normal,Normal,Normal,Normal,Normal
+1227,40,72,5.2,98,82,90/60,71,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1228,55,81,4.7,98,69,70/30,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1229,55,100,5.5,102,98,117/61,94,92,Normal,Normal,Normal,Normal,Normal,Normal
+1230,65,96,6.1,98,83,136/37,100,104,Normal,Normal,Normal,Normal,Normal,Normal
+1231,60,87,5.9,98,88,95/60,102,189,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1232,75,63,4.6,98,,,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1233,80,59,5.4,98,110,100/60,97,82,Normal,Normal,Normal,Normal,Normal,Normal
+1234,38,59,4.7,98,45,116/72,99,400,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1235,80,81,5.3,98,134,135/78,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1236,45,83,4.9,98,96,61/40,92,600,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1237,52,88,4.5,98,65,135/78,87,238,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1238,78,91,5.6,98,119,80/60,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1239,52,81,4.6,98,100,180/100,102,352,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1240,70,58,6,98,140,171/103,24,120,Normal,Normal,Normal,Normal,Normal,Normal
+1241,60,54,4.9,98,145,190/110,98,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1242,21,86,6.1,98,,130/88,80,27,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1243,50,90,4.5,98,45,,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1244,45,52,5.6,98,183,150/90,81,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1245,49,53,5.1,98,133,100/60,81,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1246,65,63,5.6,98,92,,80,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1247,35,79,6,98,80,100/60,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1248,76,60,4.6,98,65,62/36,70,81,Normal,Normal,Normal,Normal,Normal,Normal
+1249,72,64,5.8,98,100,100/70,96,82,Normal,Normal,Normal,Normal,Normal,Normal
+1250,72,50,5.6,98,62,130/90,90,120,Normal,Normal,Normal,Normal,Normal,Normal
+1251,79,71,6.1,98,133,106/56,99,120,Normal,Normal,Normal,Normal,Normal,Normal
+1252,71,99,6,98,92,90/60,48,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1253,90,65,4.6,98,80,110/86,95,535,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1254,65,71,4.6,98,65,130/90,99,130,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1255,60,67,5,98,100,101/60,55,?,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1256,63,55,5.7,98,62,160/80,65,275,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1257,81,74,6,98,75,100/60,95,353,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1258,65,51,5.8,98,96,100/45,99,185,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1259,55,99,4.6,102,98,117/61,94,92,Normal,Normal,Normal,Normal,Normal,Normal
+1260,65,68,5.1,98,83,136/37,100,104,Normal,Normal,Normal,Normal,Normal,Normal
+1261,60,61,4.6,98,88,95/60,102,189,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1262,75,72,4.8,98,,,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1263,80,69,5.7,98,110,100/60,97,82,Normal,Normal,Normal,Normal,Normal,Normal
+1264,38,96,5.2,98,45,116/72,99,400,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1265,80,77,5.6,98,134,135/78,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1266,45,77,5.3,98,96,61/40,92,600,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1267,52,72,4.7,98,65,135/78,87,238,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1268,78,50,5.6,98,119,80/60,89,555,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1269,52,58,6.1,98,100,180/100,102,352,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1270,70,83,4.5,98,140,171/103,24,120,Normal,Normal,Normal,Normal,Normal,Normal
+1271,60,58,6.1,98,145,190/110,98,75,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1272,21,84,4.9,98,,130/88,80,27,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1273,50,88,4.8,98,45,,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1274,45,80,5.2,98,183,150/90,81,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1275,49,91,5.9,98,133,100/60,81,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1276,65,55,5.7,98,92,,80,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1277,35,98,5.7,98,80,100/60,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1278,76,67,6.1,98,65,62/36,70,81,Normal,Normal,Normal,Normal,Normal,Normal
+1279,31,78,6.2,98,101,110/70,78,96,Normal,Normal,Normal,Normal,Normal,Normal
+1280,45,55,6.2,98,99,106/65,98,510,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1281,48,93,5,98,98,130/90,80,311,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1282,45,81,5.2,98,95,100/70,99,83,Normal,Normal,Normal,Normal,Normal,Normal
+1283,70,86,5,98,35,40/1,50,280,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1284,32,58,5.8,98,110,116/80,90,88,Normal,Normal,Normal,Normal,Normal,Normal
+1285,50,82,6.2,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1286,21,100,5.6,98,,80/40,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1287,70,68,5.7,98,100,113/39,100,80,Normal,Normal,Normal,Normal,Normal,Normal
+1288,90,79,5.5,98,112,100/45,90,90,Normal,Normal,Normal,Normal,Normal,Normal
+1289,35,79,5.8,98,115,60/1,40,450,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1290,18,64,5.9,98,,110/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1291,65,72,5.6,98,80,150/90,93,274,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1292,45,67,4.6,98,122,117/78,99,96,Normal,Normal,Normal,Normal,Normal,Normal
+1293,14,78,5,98,86,150/80,93,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1294,50,98,4.7,98,74,100/45,99,246,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1295,74,65,5.9,98,68,80/50,86,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1296,80,65,6,98,,,,44,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1297,68,61,5.4,98,109,94/61,98,158,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1298,52,83,4.6,98,,,90,38,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1299,50,88,4.6,98,45,,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1300,45,63,4.9,98,183,150/90,81,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1301,49,50,6,98,133,100/60,81,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1302,65,78,4.7,98,92,,80,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1303,35,62,5.9,98,80,100/60,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1304,76,71,5.1,98,65,62/36,70,81,Normal,Normal,Normal,Normal,Normal,Normal
+1305,31,77,5.5,98,101,110/70,78,96,Normal,Normal,Normal,Normal,Normal,Normal
+1306,45,51,5.4,98,99,106/65,98,510,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1307,48,95,5.5,98,98,130/90,80,311,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1308,45,50,6.1,98,95,100/70,99,83,Normal,Normal,Normal,Normal,Normal,Normal
+1309,70,53,6.1,98,35,40/1,50,280,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1310,32,91,6.1,98,110,116/80,90,88,Normal,Normal,Normal,Normal,Normal,Normal
+1311,50,59,5.7,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1312,21,67,5.4,98,,80/40,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1313,70,85,6,98,100,113/39,100,80,Normal,Normal,Normal,Normal,Normal,Normal
+1314,90,95,5.6,98,112,100/45,90,90,Normal,Normal,Normal,Normal,Normal,Normal
+1315,35,57,5.7,98,115,60/1,40,450,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1316,18,61,5.5,98,,110/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1317,50,61,4.6,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1318,21,62,6.1,98,,80/40,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1319,70,87,6,98,100,113/39,100,80,Normal,Normal,Normal,Normal,Normal,Normal
+1320,90,75,5.6,98,112,100/45,90,90,Normal,Normal,Normal,Normal,Normal,Normal
+1321,35,98,4.7,98,115,60/1,40,450,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1322,18,97,5,98,,110/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1323,65,85,5.4,98,80,150/90,93,274,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1324,45,94,5.2,98,122,117/78,99,96,Normal,Normal,Normal,Normal,Normal,Normal
+1325,14,64,4.5,98,86,150/80,93,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1326,50,88,5.2,98,74,100/45,99,246,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1327,74,53,5,98,68,80/50,86,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1328,80,58,4.8,98,,,,44,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1329,68,77,5.2,98,109,94/61,98,158,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1330,52,84,5.6,98,,,90,38,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1331,50,65,4.7,98,45,,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1332,45,63,5,98,183,150/90,81,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1333,49,73,5.3,98,133,100/60,81,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1334,65,88,4.7,98,92,,80,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1335,35,97,5.2,98,80,100/60,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1336,20,91,5.2,98,150,100/70,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1337,45,96,4.8,98,111,80/50,39,154,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1338,27,56,4.8,98,101,98/44,77,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1339,65,76,6,98,119,75/35,96,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1340,76,80,5.9,98,81,109/50,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1341,23,54,5.8,98,180,32/80,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1342,26,98,5.6,98,114,139/96,93,81,Normal,Normal,Normal,Normal,Normal,Normal
+1343,35,85,5.7,98,148,50/13,86,82,Normal,Normal,Normal,Normal,Normal,Normal
+1344,25,87,5.7,98,110,90/60,94,120,Normal,Normal,Normal,Normal,Normal,Normal
+1345,18,91,5,98,140,46/17,94,120,Normal,Normal,Normal,Normal,Normal,Normal
+1346,71,86,5.8,98,118,110/17,84,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1347,71,57,6,98,85,130/90,85,535,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1348,44,80,5.2,98,66,120/70,88,141,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1349,41,66,5,98,100,150/100,85,448,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1350,50,66,4.9,98,110,110/17,80,142,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1351,76,77,5.4,98,80,200/100,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1352,89,97,6.2,98,98,150/90,60,332,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1353,71,97,5.4,98,55,70/40,90,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1354,67,97,4.6,98,67,112/48,93,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1355,22,76,6.1,98,120,110/70,99,148,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1356,74,88,4.5,98,90,50/0,99,502,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1357,28,98,5.9,98,102,90/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1358,55,76,5.4,98,114,60/40,89,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1359,60,89,4.5,98,78,130/80,88,412,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1360,52,79,4.8,98,136,110/70,89,220,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1361,65,88,5.7,98,28,131/89,88,78,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1362,56,83,5.8,98,44,80/40,36,551,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1363,60,80,6.2,98,72,90/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1364,35,54,4.8,98,71,80/60,99,166,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1365,23,77,5.2,98,72,90/60,45,76,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1366,60,81,4.6,98,123,95/50,67,433,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1367,55,85,4.9,98,117,146/92,91,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1368,80,71,5.8,98,98,100/60,95,180,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1369,60,56,5.5,98,90,80/60,85,119,Normal,Normal,Normal,Normal,Normal,Normal
+1370,55,73,5.7,98,86,90/60,92,32,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1371,45,66,4.6,98,122,117/78,99,96,Normal,Normal,Normal,Normal,Normal,Normal
+1372,14,94,5.3,98,86,150/80,93,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1373,50,90,5.2,98,74,100/45,99,246,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1374,74,68,5.2,98,68,80/50,86,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1375,80,96,6.1,98,,,,44,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1376,68,91,5.2,98,109,94/61,98,158,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1377,52,71,4.8,98,,,90,38,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1378,50,71,4.5,98,45,,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1379,45,64,5.8,98,183,150/90,81,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1380,49,78,5.8,98,133,100/60,81,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1381,65,76,4.6,98,92,,80,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1382,35,84,5.2,98,80,100/60,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1383,20,79,5.3,98,150,100/70,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1384,45,63,6.1,98,111,80/50,39,154,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1385,27,94,5.4,98,101,98/44,77,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1386,65,58,5.2,98,119,75/35,96,79,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1387,76,80,5.8,98,81,109/50,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1388,23,85,4.9,98,180,32/80,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1389,26,75,5,98,114,139/96,93,81,Normal,Normal,Normal,Normal,Normal,Normal
+1390,35,91,4.5,98,148,50/13,86,82,Normal,Normal,Normal,Normal,Normal,Normal
+1391,25,66,5,98,110,90/60,94,120,Normal,Normal,Normal,Normal,Normal,Normal
+1392,55,88,4.7,98,114,60/40,89,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1393,60,50,5.1,98,78,130/80,88,412,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1394,52,77,5.6,98,136,110/70,89,220,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1395,65,100,5.5,98,28,131/89,88,78,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1396,56,75,6,98,44,80/40,36,551,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1397,60,78,5.7,98,72,90/60,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1398,35,57,5.6,98,71,80/60,99,166,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1399,23,98,4.9,98,72,90/60,45,76,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1400,60,91,5.6,98,123,95/50,67,433,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1401,55,50,4.9,98,117,146/92,91,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1402,80,90,5.5,98,98,100/60,95,180,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1403,60,55,6,98,90,80/60,85,119,Normal,Normal,Normal,Normal,Normal,Normal
+1404,55,62,5.8,98,86,90/60,92,32,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1405,45,88,4.6,98,122,117/78,99,96,Normal,Normal,Normal,Normal,Normal,Normal
+1406,14,71,5.4,98,86,150/80,93,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1407,50,91,4.5,98,74,100/45,99,246,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1408,74,68,5.7,98,68,80/50,86,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1409,80,74,5.6,98,,,,44,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1410,68,91,5.3,98,109,94/61,98,158,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1411,52,87,5.5,98,,,90,38,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1412,50,90,5.4,98,45,,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1413,45,54,5.7,98,183,150/90,81,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1414,45,97,5,98,140,110/60,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1415,60,96,5.4,98,145,145/75,70,220,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1416,35,61,6.1,98,,120/110,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1417,65,53,6,98,45,110/70,98,97,Normal,Normal,Normal,Normal,Normal,Normal
+1418,81,74,5.4,98,183,90/50,72,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1419,30,50,5.1,98,133,139/74,55,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1420,85,91,5.9,98,92,110/70,84,387,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1421,45,56,5.8,98,80,140/90,91,299,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1422,55,55,5.2,98,65,80/50,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1423,50,94,5.6,98,100,80/40,64,238,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1424,40,87,5.5,98,62,70/40,96,148,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1425,65,88,5.4,98,90,90/60,96,297,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1426,81,95,5.4,98,96,80/40,89,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1427,74,71,4.7,98,126,150/75,90,71,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1428,52,93,5.3,98,89,110/70,98,185,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1429,70,76,5.3,98,70,130/100,97,376,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1430,60,96,5,98,80,120/90,98,420,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1431,21,69,4.6,98,92,60/40,97,80,Normal,Normal,Normal,Normal,Normal,Normal
+1432,50,60,4.8,98,100,140/85,99,428,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1433,45,95,4.9,98,104,93/95,92,420,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1434,55,71,5.6,98,78,220/120,97,120,Normal,Normal,Normal,Normal,Normal,Normal
+1435,45,83,5.3,98,42,,66,76,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1436,45,72,6.2,98,122,117/78,99,96,Normal,Normal,Normal,Normal,Normal,Normal
+1437,14,60,5.6,98,86,150/80,93,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1438,50,56,6.1,98,74,100/45,99,246,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1439,74,93,5.2,98,68,80/50,86,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1440,80,65,6.1,98,,,,44,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1441,68,82,5,98,109,94/61,98,158,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1442,52,57,5.4,98,,,90,38,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1443,50,62,4.8,98,45,,85,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1444,45,88,4.9,98,183,150/90,81,50,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1445,45,63,4.8,98,140,110/60,98,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1446,60,83,6,98,145,145/75,70,220,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1447,35,60,5.4,98,,120/110,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1448,65,60,4.8,98,45,110/70,98,97,Normal,Normal,Normal,Normal,Normal,Normal
+1449,81,67,5.7,98,183,90/50,72,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1450,30,80,4.6,98,133,139/74,55,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1451,85,83,6.2,98,92,110/70,84,387,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1452,45,86,6.1,98,80,140/90,91,299,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1453,55,72,4.6,98,65,80/50,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1454,50,90,4.5,98,100,80/40,64,238,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1455,40,94,5,98,62,70/40,96,148,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1456,65,99,4.9,98,90,90/60,96,297,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1457,45,96,5.4,98,80,140/90,91,299,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1458,55,94,6.1,98,65,80/50,99,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1459,50,51,4.9,98,100,80/40,64,238,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1460,40,88,6.1,98,62,70/40,96,148,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1461,65,89,5.1,98,90,90/60,96,297,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1462,81,79,6.1,98,96,80/40,89,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1463,74,76,4.9,98,126,150/75,90,71,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1464,52,82,6,98,89,110/70,98,185,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1465,70,70,5.4,98,70,130/100,97,376,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1466,60,84,5.5,98,80,120/90,98,420,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1467,21,87,5.1,98,92,60/40,97,80,Normal,Normal,Normal,Normal,Normal,Normal
+1468,50,87,5.9,98,100,140/85,99,428,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1469,45,87,5.3,98,104,93/95,92,420,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1470,55,89,5.9,98,78,220/120,97,120,Normal,Normal,Normal,Normal,Normal,Normal
+1471,45,89,5.3,98,42,,66,76,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1472,45,81,5,98,122,117/78,99,96,Normal,Normal,Normal,Normal,Normal,Normal
+1473,14,81,5.3,98,86,150/80,93,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1474,50,90,5.1,98,74,100/45,99,246,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1475,74,66,5.4,98,68,80/50,86,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1476,80,66,4.9,98,,,,44,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1477,68,80,5.2,98,109,94/61,98,158,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1478,52,65,4.9,98,,,90,38,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1479,21,80,5.9,98,92,60/40,97,80,Normal,Normal,Normal,Normal,Normal,Normal
+1480,50,81,6,98,100,140/85,99,428,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1481,45,92,5.4,98,104,93/95,92,420,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1482,21,56,4.9,98,92,60/40,97,80,Normal,Normal,Normal,Normal,Normal,Normal
+1483,50,86,5.9,98,100,140/85,99,428,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1484,45,64,5.1,98,104,93/95,92,420,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1485,55,57,5.1,98,78,220/120,97,120,Normal,Normal,Normal,Normal,Normal,Normal
+1486,45,83,6.1,98,42,,66,76,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1487,45,68,6.1,98,122,117/78,99,96,Normal,Normal,Normal,Normal,Normal,Normal
+1488,15,100,4.5,98,90,80/50,92,136,High,Light Yellow,Sweating,Sub-Conscious,Moderate,20 units M/10 units E
+1489,55,75,5.6,99,40,50/0,,35,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1490,68,83,4.8,98,90,50/3,50,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1491,26,59,5.8,98,62,80/50,88,424,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1492,60,75,4.7,98,79,130/90,94,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1493,50,97,5.2,98,90,80/50,92,72,Low,Light Baron,Dry,Sub-Conscious,Moderate,Use Sweet
+1494,85,51,5.3,98,96,160/100,58,33,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1495,55,65,5.8,98,?,?,?,?,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1496,50,86,5.7,98,80,100/70,84,568,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1497,60,97,5.5,98,,,,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1498,60,89,6,98,100,102/58,98,350,Very High,Yellow,Moisture,Unconscious,Critical,30 units M/20 units E
+1499,60,94,5.9,98,110,119/71,90,,Very Low,Baron,Rashes,Unconscious,Critical,Use Sweet
+1500,36,76,5.5,98,110,110/70,96,112,Normal,Normal,Normal,Normal,Normal,Normal
